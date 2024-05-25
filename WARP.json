@@ -24,7 +24,6 @@
       }
     ],
     "routing": {
-      "domain_strategy": "AsIs",
       "rules": [
         { 
           "type": "field",
