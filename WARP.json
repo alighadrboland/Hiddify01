@@ -34,5 +34,5 @@
           "outbound_tag": "wireguard-outbound"
         }
       ]
-    },
+    }
 }
