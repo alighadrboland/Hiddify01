@@ -13,13 +13,15 @@
       }
     ],
     "outbounds": [
+      {
         "type": "wireguard",
         "tag": "wireguard-outbound", 
         "server": "162.159.192.143",
         "server_port": 3138,
         "private_key": "oAGBJD02WBb+g5l3otz0rDDjNkIig4ktyR/beVW47EU=",  
         "peer_public_key": "bmX0C+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", 
-        "mtu": 1420,
+        "mtu": 1420
+      }
     ],
     "routing": {
       "domain_strategy": "AsIs",
