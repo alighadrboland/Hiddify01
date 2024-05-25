@@ -21,8 +21,6 @@
         "private_key": "oAGBJD02WBb+g5l3otz0rDDjNkIig4ktyR/beVW47EU=",  
         "peer_public_key": "bmX0C+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", 
         "mtu": 1420,
-        "dns": ["8.8.8.8", "1.1.1.1"],
-        "allowed_ips": ["0.0.0.0/0"]
       }
     ],
     "routing": {
